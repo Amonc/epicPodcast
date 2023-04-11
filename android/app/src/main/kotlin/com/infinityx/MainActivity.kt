@@ -1,0 +1,6 @@
+package com.infinityx
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
